@@ -6,7 +6,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Kavivanar', cursive;
-    /* border: 1px red solid; */
+    border: 1px red solid;
     /* font-family: ui-sans-serif, -apple-system, system-ui, Segoe UI, Helvetica, Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol; */
 }
 html::selection{
@@ -140,9 +140,6 @@ nav ul li a:hover{
     cursor: pointer;
     font-size: 20px;
     padding: 5px;
-    /* opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.3s ease-in-out; */
 }
 
 /* Footer Section  */
