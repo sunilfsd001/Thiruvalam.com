@@ -5,9 +5,8 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: 'Kavivanar', cursive;
     /* border: 1px red solid; */
-    /* font-family: ui-sans-serif, -apple-system, system-ui, Segoe UI, Helvetica, Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol; */
+    font-family: ui-sans-serif, -apple-system, system-ui, Segoe UI, Helvetica, Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol;
 }
 html::selection{
     color: rgb(255, 255, 255);
@@ -16,11 +15,13 @@ html::selection{
 html,body{
     scroll-behavior: smooth ;
 }
-.fancyfont{
+/* .fancyfont{
     font-family: 'Knewave', cursive;
     letter-spacing: 5px;
+} */
+.headfont{
+    font-family: 'Kavivanar', cursive;
 }
-
 a{
     text-decoration: none;
     color:white;
